@@ -1,0 +1,25 @@
+nav > a > img {
+	height: 52px;
+}
+
+nav {
+	display: flex;
+	align-items: center;
+	height: 72px;
+	padding: 0 5rem;
+	gap: 2rem;
+}
+
+nav > a {
+	text-decoration: none;
+	color: #FFF;
+	text-transform: uppercase;
+	font-weight: bolder;
+	letter-spacing: 0.2rem;
+
+	transition: 0.5s color, underline;
+}
+
+nav > a:hover {
+	color: #7641c6;
+}

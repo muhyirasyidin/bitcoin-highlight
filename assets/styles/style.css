@@ -2,3 +2,8 @@
 #reset-this-root {
 	all: initial;
 }
+
+* {
+	background: #0d1116;
+	font-family: "Montserrat", sans-serif;
+}
