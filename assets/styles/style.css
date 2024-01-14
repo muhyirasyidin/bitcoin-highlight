@@ -3,7 +3,10 @@
 	all: initial;
 }
 
-* {
+body {
 	background: #0d1116;
 	font-family: "Montserrat", sans-serif;
+	margin: 0;
+	padding: 0;
+	color: #FFF;
 }
