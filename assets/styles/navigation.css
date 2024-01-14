@@ -10,8 +10,9 @@ nav {
 	height: 72px;
 	padding: 0 5rem;
 	gap: 2rem;
-	background-color: transparent;
 	z-index: 99;
+	width: 100%;
+	animation: 1s;
 }
 
 nav > a {
